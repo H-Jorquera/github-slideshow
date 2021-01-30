@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+GMC Yolo! :gem: :open_hands: :shipit: :octocat:
 Use the left arrow to go back!
